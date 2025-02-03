@@ -33,8 +33,6 @@ python main.py --data reddit
 
 ## Experiments
 
-Conduct experiments in code/
-
 **Parameters**
 As described in paper. 
 
