@@ -1,4 +1,4 @@
-DATADIR = '../datasets'
+DATADIR = 'datasets'
   
 TFINANCE = 'tfinance'
 TSOCIAL = 'tsocial'
